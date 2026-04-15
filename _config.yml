@@ -15,7 +15,7 @@ navbar-links:
 # --- Avatar --- #
 ################
 
-avatar: avatar: "/images/profile.jpg.png"
+avatar: "/images/profile.png"
 round-avatar: true
 
 #####################################
