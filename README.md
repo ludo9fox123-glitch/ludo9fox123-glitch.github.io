@@ -1,3 +1,25 @@
-# Template for creating your own website
+# Ludovic Méan Touroyan - Personal Website
 
-This is a template for creating your own website. It is based on the [Beautiful Jekyll theme](https://github.com/daattali/beautiful-jekyll). See instruction on how to setup [here](https://hdbc-17705110-mdbs.github.io/HandsOnLabs/hol1.html).
+This is my personal website created using GitHub Pages and the Beautiful Jekyll template.
+
+## About
+
+This website presents:
+- information about me
+- my academic background
+- my projects and interests
+
+## Website link
+
+You can access my website here:  
+https://ludo9fox123-glitch.github.io
+
+## Technologies used
+
+- GitHub Pages
+- Jekyll
+- Markdown
+
+## Author
+
+Ludovic Méan Touroyan
